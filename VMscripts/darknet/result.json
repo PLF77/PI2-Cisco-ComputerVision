@@ -1,0 +1,14 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/mydrive/images/test.jpg", 
+ "objects": [ 
+  {"class_id":5, "name":"trash", "relative_coordinates":{"center_x":0.254304, "center_y":0.471725, "width":0.189381, "height":0.228347}, "confidence":0.859288}, 
+  {"class_id":5, "name":"trash", "relative_coordinates":{"center_x":0.893896, "center_y":0.400998, "width":0.170396, "height":0.165257}, "confidence":0.772141}, 
+  {"class_id":5, "name":"trash", "relative_coordinates":{"center_x":0.139348, "center_y":0.514929, "width":0.067668, "height":0.048584}, "confidence":0.544169}, 
+  {"class_id":3, "name":"plastic", "relative_coordinates":{"center_x":0.866489, "center_y":0.869480, "width":0.266249, "height":0.174635}, "confidence":0.948290}, 
+  {"class_id":3, "name":"plastic", "relative_coordinates":{"center_x":0.247232, "center_y":0.894328, "width":0.264907, "height":0.152182}, "confidence":0.910699}, 
+  {"class_id":3, "name":"plastic", "relative_coordinates":{"center_x":0.122912, "center_y":0.321139, "width":0.155105, "height":0.080759}, "confidence":0.885290}
+ ] 
+}
+]
